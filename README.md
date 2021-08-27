@@ -1,2 +1,2 @@
 # FantasyLand_Unity2DGame
-It is a 2D game made using unity 2D
+It a 2D game where a sprite can move and collect different collectibles and he have to cross different hurdles for completing the game. 
